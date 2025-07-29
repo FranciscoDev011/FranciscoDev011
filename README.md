@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor iniciante em busca de uma oportunidade na área da programação. Atualmente estou aprendendo Python e JavaScript por cursos onlines e videoaulas, além de ter realizado alguns projetos usando a engine Godot para criação de jogos.</p>
+<p align="left">Sou um desenvolvedor iniciante em busca de uma oportunidade na área da programação. Atualmente estou aprendendo Html, Css e JavaScript por cursos onlines e videoaulas, além de ter realizado alguns projetos usando a engine Godot para criação de jogos.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Programando no VS Code<br>📚 Aprendendo JavaScript e Python<br>🎯 Criando um jogo na Godot<br>🔍 Em busca de oportunidades na área de programação</p>
+<p align="left">💻 Programando no VS Code<br>📚 Aprendendo JavaScript<br>🎯 Criando um jogo na Godot<br>🔍 Em busca de oportunidades na área de programação</p>
 
 ###
 
@@ -19,11 +19,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
