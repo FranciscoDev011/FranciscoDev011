@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor iniciante em busca de uma oportunidade na área da programação. Atualmente estou aprendendo Html, Css e JavaScript por cursos onlines e videoaulas, além de ter realizado alguns projetos usando a engine Godot para criação de jogos.</p>
+<p align="left"> Estudante de Análise e Desenvolvimento de Sistemas, iniciando a carreira na área da programação inicialmete começando como Front-end para desenvolvimento de websites, mas constantemente expandindo os meus conhecimentos para me tornar um futuro Fullstack.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Programando no VS Code<br>📚 Aprendendo JavaScript<br>🎯 Criando um jogo na Godot<br>🔍 Em busca de oportunidades na área de programação</p>
+<p align="left">💻 Programando no VS Code<br>📚 Aprendendo JavaScript e Python <br>🎯 Estudante de Análise e Desenvolvimento de Sistemas <br> 🔍 Em busca de oportunidades na área de programação</p>
 
 ###
 
@@ -23,7 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
