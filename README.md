@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Programando no VS Code<br>📚 Aprendendo JavaScript e Python <br>🎯 Estudante de Análise e Desenvolvimento de Sistemas <br> 🔍 Em busca de oportunidades na área de programação</p>
+<p align="left">💻 Criando projetos <br>📚 Aprendendo JavaScript e Python <br>🎯 Estudante de Análise e Desenvolvimento de Sistemas <br> 🔍 Em busca de oportunidades na área de programação</p>
 
 ###
 
@@ -23,10 +23,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+
 </div>
 
 ###
