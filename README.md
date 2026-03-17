@@ -2,19 +2,11 @@
 
 ###
 
-<p align="left"> Estudante de Análise e Desenvolvimento de Sistemas, iniciando a carreira na área da programação inicialmete começando como Front-end para desenvolvimento de websites, mas constantemente expandindo os meus conhecimentos para me tornar um futuro Fullstack.</p>
+<p align="left"> Estudante de Análise e Desenvolvimento de Sistemas, iniciando a carreira na área da programação inicialmete começando como Front-end para desenvolvimento de websites, mas constantemente expandindo os meus conhecimentos para me tornar um futuro Fullstack e desenvolver projetos completos.</p>
 
 ###
 
-<h2 align="left">Status</h2>
-
-###
-
-<p align="left">💻 Criando projetos <br>📚 Aprendendo JavaScript e Python <br>🎯 Estudante de Análise e Desenvolvimento de Sistemas <br> 🔍 Em busca de oportunidades na área de programação</p>
-
-###
-
-<h2 align="left">Linguagens</h2>
+<h2 align="left">Linguagens e Ferramentas</h2>
 
 ###
 
@@ -26,19 +18,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-
 </div>
 
 ###
 
-<h2 align="left">Redes Sociais</h2>
+<h2 align="left">Sobre Mim</h2>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/francisco-de-jesus-alves-dos-santos-3696b435b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="left">
+💻 Amante de tecnologia desde a infância <br>
+☕ Gosto de um bom gole de café à tarde <br>
+📚 Hobbies: livros, filmes, séries e jogos <br>
+🔍 Em busca de aprender novas ferramentas para projetos mais complexos
+</p>
 
 ###
