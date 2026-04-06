@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Estudante de Análise e Desenvolvimento de Sistemas, iniciando a carreira na área da programação inicialmete começando como Front-end para desenvolvimento de websites, mas constantemente expandindo os meus conhecimentos para me tornar um futuro Fullstack e desenvolver projetos completos.</p>
+<p align="left"> Estudante de Análise e Desenvolvimento de Sistemas, iniciando a carreira na área da programação como Fullstack, para desenvolver projetos completos e funcionais.</p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 <p align="left">
 💻 Amante de tecnologia desde a infância <br>
-☕ Gosto de um bom gole de café à tarde <br>
+☕ Gosto de uma boa xícara de café à tarde <br>
 📚 Hobbies: livros, filmes, séries e jogos <br>
 🔍 Em busca de aprender novas ferramentas para projetos mais complexos
 </p>
