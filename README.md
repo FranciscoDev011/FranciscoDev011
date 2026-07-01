@@ -42,10 +42,10 @@
   <a href="https://www.linkedin.com/in/francisco-de-jesus-alves-dos-santos/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"/>
   </a>
-  <a href="https://www.linkedin.com/in/francisco-de-jesus-alves-dos-santos/" target="_blank">
+  <a href="https://discord.com/users/1198969264493834260" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"/>
   </a>
-  <a href="https://www.linkedin.com/in/francisco-de-jesus-alves-dos-santos/" target="_blank">
+  <a href="mailto:franciscodejesusalves99@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"/>
   </a>
 </div>
