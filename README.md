@@ -53,6 +53,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=FranciscoDev011&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="250" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=FranciscoDev011&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="250" alt="streak graph"  />
+</div>
 
 ###
